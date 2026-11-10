@@ -22,6 +22,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Problem | Description | Link |
 |---|---|---|
 | Implement Dropout (Training Mode) | Implement training-mode dropout in NumPy with random masking and inverted scaling of retained activations. | https://www.tensortonic.com/problems/dropout-training |
+| ELU Activation | Apply the ELU activation element-wise, retaining positive inputs and exponentially transforming negative values. | https://www.tensortonic.com/problems/elu-activation |
 | Implement Gradient Descent for a 1D Quadratic | Optimize a one-dimensional quadratic with iterative gradient descent and return the parameter trajectory. | https://www.tensortonic.com/problems/gradient-descent-quadratic |
 | He Initialization | Implement He weight initialization from scratch in NumPy. See the formula, why fan-in scaling matters, and test your code in the browser. | https://www.tensortonic.com/problems/he-initialization |
 | Implement Leaky ReLU (with α) | Apply Leaky ReLU element-wise with a configurable negative slope while retaining positive inputs. | https://www.tensortonic.com/problems/leaky-relu |
